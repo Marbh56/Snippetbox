@@ -1,6 +1,6 @@
 package main
 
-// Chapter page 316
+// Chapter 11
 
 import (
 	"crypto/tls"
